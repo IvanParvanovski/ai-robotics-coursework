@@ -1,2 +1,2 @@
-# AI_Robotics_coursework
-Upload the code for the heuristics functions that are in the document
+# ai-robotics-coursework
+Upload the implementations of the heuristic functions described in the document
